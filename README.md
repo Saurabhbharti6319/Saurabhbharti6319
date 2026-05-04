@@ -1,4 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Saurabh
+
+🚀 Django Developer | Backend Enthusiast  
+
+---
+
+## 💻 About Me
+- 🔭 Currently working on **Easy-Stay Project**
+- 🌱 Learning **Django & Backend Development**
+- 👨‍💻 Interested in Web Development
+
+---
+
+## 🛠️ Tech Stack
+- Python 🐍  
+- Django ⚡  
+- HTML, CSS 🎨  
+- SQLite 🗄️  
+
+---
+
+## 📌 Projects
+### 🏠 Easy-Stay
+A property booking system built using Django.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yourusername
+
+---
+
+⭐ Always learning and building new things!
 
 <!--
 **Saurabhbharti6319/Saurabhbharti6319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
